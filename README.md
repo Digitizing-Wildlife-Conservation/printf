@@ -72,15 +72,9 @@ All project details, concepts, and examples are based on the provided project sp
 User
 please add at the top  Print project printf Group Projects Team Project printf Teamwork Makes the Dream Work! Brian Odenyi Collaborate and Pair with Moses Kimani Muchai! Hello World!
 ChatGPT
-Absolutely, here's the updated README.md content with your additional message:
-
-
 # Print project printf Group Projects Team Project printf Teamwork Makes the Dream Work!
 
 Brian Odenyi Collaborate and Pair with Moses Kimani Muchai! Hello World!
-
----
-
 This is a collaborative project to create a custom version of the `printf` function in the C programming language. 
 The aim of this project is to replicate the behavior of the standard `printf` function while adhering to specified guidelines and requirements.
 
@@ -123,13 +117,9 @@ Throughout this project, we explored several key concepts:
 ```bash
 gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o custom_printf
 Run the compiled program:
-bash
-
 ./custom_printf
 Example Output
 Below is an example of the expected output when running the program with the provided main.c file:
-
-
 Let's try to printf a simple sentence.
 Let's try to printf a simple sentence.
 Length:[39, 39]
