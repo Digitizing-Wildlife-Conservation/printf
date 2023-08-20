@@ -1,5 +1,5 @@
 :iustom Printf Function Project
-This is a collaborative project to create a custom version of the printf function in the C programming language. 
+Thiis is a collaborative project to create a custom version of the printf function in the C programming language. 
 The aim of this project is to replicate the behavior of the standard printf function while adhering to specified guidelines and requirements.
 
 Project Details
